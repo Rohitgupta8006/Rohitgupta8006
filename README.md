@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rohit Gupta
 - 👀 I’m interested in Blockchain Technology, NFT & ERC Tokens.
-- 🌱 I’m currently working as Blockchain Developer @ TCS.
-- 💞️ I’m looking to collaborate on blockchain projects
+- 🌱 I’m currently working as a Developer @ TCS.
 - 📫 LinkedIn: https://www.linkedin.com/in/rohit-gupta-60b691170/
+- Skillset: { Node.js, Express, Blockchain, Version control, Agile }
 
 
 <!---
