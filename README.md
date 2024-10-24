@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technology, NFT & ERC Tokens.
 - 🌱 I’m currently working as a Developer @ TCS.
 - 📫 LinkedIn: https://www.linkedin.com/in/rohit-gupta-60b691170/
-- Skillset: { Node.js, Express, Blockchain, Version control, Agile }
+- Skillset: {Python, Node.js, Blockchain, Amazon Web Services (AWS), RESTful API's, Version control, Agile }
 
 
 <!---
